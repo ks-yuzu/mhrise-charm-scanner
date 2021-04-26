@@ -1,0 +1,12 @@
+[submodule "submodules/SZ7M8ci7/MHrise"]
+	path = submodules/SZ7M8ci7/MHrise
+	url = https://github.com/SZ7M8ci7/MHrise.git
+[submodule "submodules/googletest"]
+	path = submodules/googletest
+	url = https://github.com/google/googletest.git
+[submodule "submodules/opencv_contrib"]
+	path = submodules/opencv_contrib
+	url = https://github.com/opencv/opencv_contrib.git
+[submodule "submodules/opencv"]
+	path = submodules/opencv
+	url = https://github.com/opencv/opencv.git
